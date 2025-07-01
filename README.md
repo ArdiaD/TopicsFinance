@@ -21,4 +21,4 @@ You must have R installed and a C++ compiler (such as GCC) to run Rcpp/RcppArmad
 ## References
 
 Ardia, D., Bluteau, K., Meghani, M.-A. (2024), **Thirty years of academic finance**, 
-*Journal of Economic Surveys*, 38, 1008-1042. [https://doi.org/10.1111/joes.12571](https://doi.org/10.1111/joes.12571]
+*Journal of Economic Surveys*, 38, 1008-1042. [https://doi.org/10.1111/joes.12571](https://doi.org/10.1111/joes.12571)
