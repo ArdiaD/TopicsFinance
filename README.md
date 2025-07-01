@@ -3,7 +3,7 @@
 ## Overview
 
 This README file provides information about computer code used to generate the results presented in Ardia et al. (2024), **Thirty years of academic finance**, 
-*Journal of Economic Surveys*, 38, 1008-1042. [https://doi.org/10.1111/joes.12571](https://doi.org/10.1111/joes.12571]
+*Journal of Economic Surveys*, 38, 1008-1042. [https://doi.org/10.1111/joes.12571](https://doi.org/10.1111/joes.12571)
 
 By using the code, you agree to the following rules:
 
@@ -13,8 +13,7 @@ By using the code, you agree to the following rules:
 
 All datasets are proprietary. We do not have the rights to share any of the data.
 
-The computer code is written in R and is available here: [https://github.com/keblu/30YoAF/tree/main](https://github.com/keblu/30YoAF/tree/main
-] 
+The computer code is written in R and is available here: [https://github.com/keblu/30YoAF/tree/main](https://github.com/keblu/30YoAF/tree/main)
 ## Computational Requirements
 
 You must have R installed and a C++ compiler (such as GCC) to run Rcpp/RcppArmadillo.
